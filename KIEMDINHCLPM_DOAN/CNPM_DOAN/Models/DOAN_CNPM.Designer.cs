@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Bài tập\Công nghệ phần mềm\CNPM_DOAN\CNPM_DOAN\Models\DOAN_CNPM.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\HUFLIT\NĂM 3\Học kì 1\Kiểm định chất lượng phần mềm\Lý thuyết\DOAN_KIEMDINHCLPM\KIEMDINHCLPM_DOAN\CNPM_DOAN\Models\DOAN_CNPM.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
